@@ -14,10 +14,10 @@ permalink: blog
 A continuación podrás ver las publicaciones que hemos hecho. Aprende y disfruta con nosotros del CrossFit.
 
 Índice: 
-<ul>
+<ul style="text-align:left;padding:50px;">
 {% for page in site.pages %}
 {% if page.title != null  %}
-	{% if page.url != "/404.html" %}
+	{% if page.url != "blog" %}
 	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 	{% endif %}
 {% endif %}
