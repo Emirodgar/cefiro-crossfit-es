@@ -17,7 +17,7 @@ A continuación podrás ver las publicaciones que hemos hecho. Aprende y disfrut
 <ul style="text-align:left;padding:50px;">
 {% for page in site.pages %}
 {% if page.title != null  %}
-	{% if page.url != "blog" %}
+	{% if page.url != "/blog" %}
 	  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 	{% endif %}
 {% endif %}
