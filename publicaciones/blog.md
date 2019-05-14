@@ -13,7 +13,6 @@ permalink: blog
 
 A continuación podrás ver las publicaciones que hemos hecho. Aprende y disfruta con nosotros del CrossFit.
 
-Índice: 
 <ul style="text-align:left;padding:50px;">
 {% for page in site.pages %}
 {% if page.title != null  %}
