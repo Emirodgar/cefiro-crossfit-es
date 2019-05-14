@@ -1,0 +1,8 @@
+# Site Settings
+locale                   : "es_ES"
+title                    : "Céfiro CrossFit"
+title_separator          : "|"
+name                     : "Céfiro CrossFit"
+url                      : "https://cefirocrossfit.es"
+twitter_username: emirodgar
+github_username:  emirodgar
