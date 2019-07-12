@@ -76,5 +76,6 @@ cualquier actividad física y en tu día a día.
 ## ¿Te animas a apuntarte? estas son las tarifas
 
 2 CLASES SEMANALES DE PILATES: 50 EUROS
+
 2 CLASES SEMANALES DE PILATES MAS 1 DE HIPOPRESIVOS: 60 EUROS
 
