@@ -40,11 +40,13 @@ que estos se fortalecen e hipertrofian, encontramos debilitada la musculatura es
 y puede deberse a la debilidad muscular como a una falta de propiocepción de la zona.
 Localizar estos músculos menores y aprender a utilizarlos requiere una gran dosis de
 concentración control y precisión por eso se describe el Método Pilates como un “ejercicio
-consciente”. La filosofía de Pilates se centra en el entrenamiento de la mente y el cuerpo para
+consciente”. 
+
+> La filosofía de Pilates se centra en el entrenamiento de la mente y el cuerpo para
 que trabajen juntos buscando un objetivo común.
 
-El trabajo se centra en la estabilización del núcleo (Core), la estabilización de la pelvis y la
-cintura escapular, la alineación neutral y los patrones respiratorios. El Método Pilates también
+El trabajo se centra en la **estabilización del núcleo** (Core), la **estabilización de la pelvis** y la
+**cintura escapular**, la **alineación neutral** y los **patrones respiratorios**. El Método Pilates también
 ayuda a restaurar las curvas naturales de la columna y alivia tensiones. El resultado: un cuerpo
 equilibrado y alineado, sano, revitalizado y que se mueve con facilidad. Lo podemos aplicar
 para un paciente en rehabilitación de una lesión o con deportistas de elite.
@@ -73,6 +75,6 @@ cualquier actividad física y en tu día a día.
 
 ## ¿Te animas a apuntarte? estas son las tarifas
 
- - 2 CLASES SEMANALES DE PILATES: 50 EUROS
- - 2 CLASES SEMANALES DE PILATES MAS 1 DE HIPOPRESIVOS: 60 EUROS
+2 CLASES SEMANALES DE PILATES: 50 EUROS
+2 CLASES SEMANALES DE PILATES MAS 1 DE HIPOPRESIVOS: 60 EUROS
 
