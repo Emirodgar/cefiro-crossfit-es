@@ -4,7 +4,7 @@ description: Varios estudios han demostrado que mejora además del desempeño de
 aspectos cognitivos.
 lang: es_ES
 author: Emirodgar
-tags: cafeina
+tags: seo, google, performance
 date: 14/08/2019
 permalink: cafeina
 
