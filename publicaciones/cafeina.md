@@ -6,7 +6,7 @@ lang: es_ES
 author: Emirodgar
 tags: cafeina
 date: 14/08/2019
-permalink: cafeina
+permalink: /cafeina
 
 ---
 
