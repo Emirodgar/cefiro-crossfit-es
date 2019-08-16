@@ -10,7 +10,7 @@ permalink: beneficios-cafeina
 
 ---
 
-# Cafeína
+# Cafeína en el deporte
 
 La cafeina se encuentra en una gran variedad de bebidas y alimentos como el té, el café, el guaraná,
 el chocolate y la bebida de cola. La mayoria de las bebidas con cafeína que se consumen en todo el
