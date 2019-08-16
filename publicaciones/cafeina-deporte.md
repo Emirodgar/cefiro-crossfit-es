@@ -1,6 +1,6 @@
 ---
 title: La cafeína y el deporte
-description: Te ayudamos en la preparación física para opositar a policía y bomberos en Salamanca
+description: Varios estudios han demostrado los beneficios de la cafeína tanto en la resistencia como en diversos aspectos cognitivos
 lang: es_ES
 author: Emirodgar
 tags: deporte
