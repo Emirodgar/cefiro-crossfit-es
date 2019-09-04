@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 tags: kids
 date: 16/04/2019
-permalink: crossfit-niños-salamanca
+permalink: crossfit-ninos-salamanca
 
 ---
 
@@ -61,5 +61,5 @@ mencionado anteriormente, pero dependen de un factor muy importante: el profesio
 les este impartiendo la clase (coach)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTI4MzcwXX0=
+eyJoaXN0b3J5IjpbNTQ5MjAzNzk3LDEyMjkyODM3MF19
 -->
