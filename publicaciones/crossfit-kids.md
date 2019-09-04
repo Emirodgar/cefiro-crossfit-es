@@ -31,7 +31,7 @@ variedad de ejercicios con los que mantenerse en forma y esto ya se puede
 considerar una gran ventaja, puesto que sienta bases de la tan complicada
 regularidad en la practica del deporte.
 
-## BENEFICIOS EMOCIONALES
+## Beneficios e
 
 En un ambiente de confianza y rodeados con otros
 niños de su edad, consiguen adquirir un sentido de equipo y superación al
@@ -39,7 +39,7 @@ enfrentarse a retos. Además, tener motivación de superación prepara al niño 
 la edad adulta, para enseñarle que necesitar tener objetivos para funcionar como
 ser humano y mejorar siempre, sea en la disciplina que sea.
 
-## CONFIANZA
+## Confianza
 
 Este aspecto se percibe mucho mas en niños timidos e introvertidos.
 El crossfit permite que refuercen su confianza y autodisciplina a través de la
@@ -47,12 +47,12 @@ consecución de metas y el desarrollo de nuevas habilidades, lo que además les
 permitirá comunicarse mejor con sus compañeros. Compartir una actividad les va
 ayudar a entablar conversaciones y futuras relaciones.
 
-## DISCIPLINA
+## Disciplina
 
 Para nosotros la disciplina bien entendida esta directamente
 relacionada con la necesidad de esforzarase para conseguir objetivos.
 
-## RESPETO
+## Respeto
 
 Hacia el resto de compañeros y el entrenador.
 
@@ -61,5 +61,5 @@ mencionado anteriormente, pero dependen de un factor muy importante: el profesio
 les este impartiendo la clase (coach)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTMzNzAzOF19
+eyJoaXN0b3J5IjpbLTIxMDEzODk5MzRdfQ==
 -->
