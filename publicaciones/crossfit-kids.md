@@ -16,7 +16,7 @@ niño va a notar que su fuerza, velocidad y resistencia van a mejorar, además d
 capacidades físicas, lo que le permitirá estar preparado para continuar haciendo deporte
 cuando sea adulto.
 
-## ¿ES BUENO EL CROSSFIT PARA NIÑOS?
+## ¿Es bueno el CrossFit para niños?
 
 El crecimiento de un niño pasa por realizar actividades en las que puedan jugar con otros
 niños, divertirse, aprender a comunicarse, correr… El crossfit se plantea como una actividad
@@ -24,14 +24,14 @@ complementaria en la que pueden aprender ciertas competencias y mejorar la forma
 siempre y cuando los centros donde se impartan estén adaptados a las capacidades de los
 niños.
 
-## BENEFICIOS FÍSICOS
+## Beneficios físicos
 
 Crossfit va a fomentar que los niños aprendan una gran
 variedad de ejercicios con los que mantenerse en forma y esto ya se puede
 considerar una gran ventaja, puesto que sienta bases de la tan complicada
 regularidad en la practica del deporte.
 
-## Beneficios e
+## Beneficios emocionales
 
 En un ambiente de confianza y rodeados con otros
 niños de su edad, consiguen adquirir un sentido de equipo y superación al
@@ -61,5 +61,5 @@ mencionado anteriormente, pero dependen de un factor muy importante: el profesio
 les este impartiendo la clase (coach)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDEzODk5MzRdfQ==
+eyJoaXN0b3J5IjpbMTIyOTI4MzcwXX0=
 -->
