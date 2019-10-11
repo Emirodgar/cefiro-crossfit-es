@@ -22,8 +22,8 @@ Los precios para cualquier persona que tenga relación con la USAL son:
    
 Se trata por tanto de un **15% de descuento sobre las cuotas existentes**.
 
-Estamos tan convencidos de que nuestra metodología y rutina te va a gustar que te ofrecemos la posibilidad de que vengas un día gratuitamente a probarnos. **¿Te animas?**
+ ¿Te animas a probarnos?. **La primera clase es gratuita**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3NjkzNDM3LDExMDQ2ODc3NjddfQ==
+eyJoaXN0b3J5IjpbMzg4Nzk3MTEzLDExMDQ2ODc3NjddfQ==
 -->
