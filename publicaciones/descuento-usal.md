@@ -13,6 +13,8 @@ permalink: descuento-usal
 
 Si eres estudiante o trabajador de la Universidad de Salamanca (USAL) estás de enhorabuena porque en Céfiro Crossfit  queremos ofrecerte nuestros servicios a un precio reducido.
 
+## Precio colaboración USAL
+
 Los precios para cualquier persona que tenga relación con la USAL son:
 
  2 días a la semana **50 € al mes**.
@@ -28,5 +30,6 @@ Se trata por tanto de un **15% de descuento sobre las cuotas existentes**.
  ¿Te animas a probarnos?. **La primera clase es gratuita**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODczMzkwOSwxMTA0Njg3NzY3XX0=
+eyJoaXN0b3J5IjpbLTExMTEwNTQ0OTQsMTcxODczMzkwOSwxMT
+A0Njg3NzY3XX0=
 -->
