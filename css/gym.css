@@ -401,7 +401,7 @@
 
 .portfolio-overlay {
 	opacity: .8;
-	background-color: rgba(0,0,0,0.25);
+	background-color: rgba(0,0,0,0.65);
 	-webkit-transition: all .4s ease !important;
 	-o-transition: all .4s ease !important;
 	transition: all .4s ease !important;
