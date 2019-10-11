@@ -15,15 +15,15 @@ Si eres estudiante o trabajador de la Universidad de Salamanca (USAL) estás de 
 
 Los precios para cualquier persona que tenga relación con la USAL son:
 
- - 2 días a la semana 50 € al mes.
- - 3 días + 1 open box por semana 60 € al mes.
- - 6 días + 5 open box por semana 70 € al mes.
- - Días y open box ilimitados por semana 80 € al mes.
+ 2 días a la semana **50 € al mes**.
+ 3 días + 1 open box por semana **60 € al mes**.
+ 6 días + 5 open box por semana **70 € al mes**.
+ Días y open box ilimitados por semana **80 € al mes**.
    
-Se trata por tanto de un 15% de descuento sobre las cuotas existentes.
+Se trata por tanto de un **15% de descuento sobre las cuotas existentes**.
 
 Estamos tan convencidos de que nuestra metodología y rutina te va a gustar que te ofrecemos la posibilidad de que vengas un día gratuitamente a probarnos. **¿Te animas?**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjg0NzgxNywxMTA0Njg3NzY3XX0=
+eyJoaXN0b3J5IjpbNjA3NjkzNDM3LDExMDQ2ODc3NjddfQ==
 -->
