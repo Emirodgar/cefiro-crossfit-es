@@ -4,17 +4,25 @@ description: Te ayudamos en la preparación física para opositar a policía y b
 lang: es_ES
 author: Emirodgar
 tags: seo, google, performance
-date: 16/04/2019
+date: 15/10/2019
 permalink: preparar-oposicion-policia-bomberos-salamanca
 
 ---
 
 # Preparación de oposiciones para policía y bomberos en Salamanca
 
-mínimo 3 personas máximo 10) 50 euros al mes, dos sesiones por semana, (horarios aún por estipular)
-Se realizarán dos sesiones semanales y además se aportará una guía de trabajo autónomo que supervisaremos gradualmente para un seguimiento del mismo.
+## ¿Por qué CrossFit va a ayudarte en tu oposición? 
+
+Originalmente CrossFit fue desarrollado por Greg Glassman el cual buscaba una disciplina en la que los movimientos fueran lo más funcionales y se desarrollaran en el menor tiempo posible.
+
+En el inicio, el sistema de entrenamiento estaba pensado para entrenar a policías, marines,
+bomberos y militares, dada su transferencia a situaciones que pudieran presentarse por ejemplo en el campo de batalla para un militar, en una emergencia para un bombero o en una
+persecución para un policía.
 
 ## Entrenamiento
 
 ## Tasa de éxito
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU3NzYxNjAzNl19
+-->
