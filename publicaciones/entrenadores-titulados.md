@@ -17,10 +17,12 @@ Por ello es fundamental que únicamente **nos pongamos en mano de profesionales*
 
 En el deporte existe gran cantidad de intrusismo laboral por una falta de legislación en nuestro ámbito y no debemos permitir que personas ajenas a la actividad física con cursos de un fin de semana prescriban actividad física sin una base de conocimientos  que sólo estudios específicos pueden aportar.
 
-Cuando hablamos de CrossFit con más razón. Existe el falso rumor de que nuestra disciplina es lesiva, pero nada más lejos de la realidad. El único peligro, no solo de este deporte, sino de cualquiera, es la falta de conocimiento y el uso de cargas de trabajo elevadas sin conocimiento por lo que solo debemos ponernos en manos de profesionales formados, que sepan hacer una programación adecuada y beneficiosa de nuestra actividad física, tanto para el atleta que busque la salud como para aquel que busque el rendimiento deportivo, y por supuesto en centros oficiales de CrossFit afiliados.
+## Ve a centros oficiales de CrossFit afiliados
+
+Cuando hablamos de CrossFit con más razón. Existe el falso rumor de que nuestra disciplina es lesiva, pero nada más lejos de la realidad. El único peligro, no solo de este deporte, sino de cualquiera, es la **falta de conocimiento** y el uso de **cargas de trabajo elevadas sin la preparación adecuada** por lo que sólo debemos ponernos en manos de profesionales formados, que sepan hacer una programación adecuada y beneficiosa de nuestra actividad física, tanto para el atleta que busque la salud como para aquel que busque el rendimiento deportivo, y por supuesto en **centros oficiales de CrossFit afiliados**.
 
 En Cefiro CrossFit no nos conformamos con eso, por lo que todos nuestros entrenadores tienen titulación universitaria relacionada con la actividad física y se siguen formando día a día con cursos relacionados, que solo con esa titulación previa puede aprovecharse al cien por cien.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMzNjg4MzldfQ==
+eyJoaXN0b3J5IjpbMTUyMTY1NjE5Nl19
 -->
