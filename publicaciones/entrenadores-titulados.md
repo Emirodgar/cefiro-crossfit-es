@@ -1,5 +1,5 @@
 ---
-title: La importancia de tener entrenadores titulados en CorssFit
+title: La importancia de tener entrenadores titulados en CrossFit
 description: En Céfiro Crossfit todos nuestros entrenadores están titulados para alcanzar los mejores resultados de la mejor forma posible.
 lang: es_ES
 author: Emirodgar
@@ -8,7 +8,7 @@ permalink: entrenadores-titulados
 
 ---
 
-# La importancia de tener entrenadores titulados en CorssFit
+# La importancia de tener entrenadores titulados en CrossFit
 
 Por suerte, el deporte está cada vez más al alcance de todos, y día a día cada vez más gente realiza actividad física con el **objetivo de bienestar y salud**.
 
@@ -26,5 +26,5 @@ Cuando hablamos de CrossFit con más razón. Existe el falso rumor de que nuestr
 En Céfiro CrossFit no nos conformamos con eso, por lo que todos nuestros entrenadores tienen **titulación universitaria** relacionada con la actividad física y se siguen formando día a día con cursos relacionados, que sólo con esa titulación previa puede aprovecharse al cien por cien.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODAzOTc1MTZdfQ==
+eyJoaXN0b3J5IjpbLTE3NTgzODk1MTZdfQ==
 -->
