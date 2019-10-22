@@ -25,10 +25,10 @@ Cuando hablamos de CrossFit con más razón. Existe el falso rumor de que nuestr
 
 En Céfiro CrossFit no nos conformamos con eso, por lo que todos nuestros entrenadores tienen **titulación universitaria** relacionada con la actividad física y se siguen formando día a día con cursos relacionados, que sólo con esa titulación previa puede aprovecharse al cien por cien.
 
-Puedes ver quiénes somos desde [la página principal](https://cefirocrossfit.es/#nosotros) y los títulos con los que contamos: **Grado en CAFYD**,** CF-L1 Trainer **y** CF-L2 Trainer**.
+Puedes ver quiénes somos desde [la página principal](https://cefirocrossfit.es/#nosotros) y los títulos con los que contamos: **Grado en CAFYD, CF-L1 Trainer y CF-L2 Trainer**.
 
 Ven a probarnos con la seguridad de que estarás en las mejores manos. Tu salud es muy importante para nosotros.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTExMDA1Nl19
+eyJoaXN0b3J5IjpbNzI2MDUwNzkyXX0=
 -->
