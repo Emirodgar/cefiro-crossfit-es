@@ -25,6 +25,8 @@ Cuando hablamos de CrossFit con más razón. Existe el falso rumor de que nuestr
 
 En Céfiro CrossFit no nos conformamos con eso, por lo que todos nuestros entrenadores tienen **titulación universitaria** relacionada con la actividad física y se siguen formando día a día con cursos relacionados, que sólo con esa titulación previa puede aprovecharse al cien por cien.
 
+Puedes ver quiénes somos desde la página principal y los títulos con los que contamos: Grado en CADYF, .
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgzODk1MTZdfQ==
+eyJoaXN0b3J5IjpbLTc5NTkxN119
 -->
