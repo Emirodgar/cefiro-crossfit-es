@@ -43,7 +43,6 @@ El volumen del liquido consumido es esencial para la rehidratación post ejercic
 
 ### Bebidas con carbohidratos
 
-  
 En diferentes estudios ( osterberg, Pallardy, Johnson y Horswill, 2010), los deportistas con una deshidratación del 2-3% que bebieron agua, un placebo o una solución con carbohidratos en diferentes concentraciones( 3%,6%,12%). Consumiendo un volumen necesario para reponer el 100% de perdidas durante el ejercicio. 4 horas de rehidratación mas tarde la retención de líquidos fue mayor con las bebidas que contenían carbohidratos en comparación con el agua.
 
 Los carbohidratos retrasan el vaciado gástrico y esto afecta a la retención de líquidos.
@@ -51,6 +50,46 @@ Los carbohidratos retrasan el vaciado gástrico y esto afecta a la retención de
 La respuesta de la insulina a la ingesta de carbohidratos según estudios, podría mejorar la absorción renal de sodio, lo que promueve la retención de agua.
 
 El agua se asocia con el soluto en relación al almacenamiento de glucógeno y puede aumentar la retención intracelular y el agua corporal total.
+
+## Ejemplos de bebidas hidratantes
+
+Agua de coco
+
+  
+
+Anuncios publicitarios afirman propiedades hidratantes mejores que el agua o bebidas deportivas y aunque contiene carbohidratos y electrolitos contiene muy poco sodio que es el electrolito que realmente es el que realmente importa.
+
+Las afirmaciones son infundadas. Aunque si es una forma de beber líquidos que también contiene carbohidratos y electrolitos.
+
+Añadir sodio al agua de coco mejora las propiedades hidratantes con respecto al agua simple ( Jeukendrup, 2018, [https://bit.ly/2FrGFFA](https://bit.ly/2FrGFFA))
+
+  
+
+Leche
+
+  
+
+Determinados estudios nos dicen que la producción de orina acumulada es menor después del consumo de bebidas lácteas. (Shirreffs, Watson y Maughan 2007).
+
+La leche puede ser una bebida efectiva para la rehidratación después del ejercicio. Además ayuda a alcanzar los requisitos de proteínas y carbohidratos.
+
+La composición de la leche produce un retraso en la entrada de liquido en el torrente sanguíneo y atenúa la reducción de la osmolalidad sérica y como resultado prolonga el estimulo para la absorción renal de agua.
+
+  
+
+Comparación de bebidas
+
+  
+
+Según el BHI , índice de hidratación de bebidas ( medida de la rapidez con la que una bebida puede rehidratar a una persona en horas posteriores a la deshidratación) cuanto mas alto es , mayor es el liquido que se retiene.
+
+Las soluciones de rehidratación oral tienen el valor mas elevado .
+
+La leche desnatada, entera o el zumo de naranja también tienen una buena puntuación.
+
+Las bebidas deportivas son bastante similares al agua.
+
+El volumen consumido sigue siendo el factor mas importante, que el tipo de bebida consumida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTA3Nzg4N119
+eyJoaXN0b3J5IjpbLTQ2NjU0ODEzN119
 -->
