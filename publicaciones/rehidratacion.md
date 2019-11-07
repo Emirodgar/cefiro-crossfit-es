@@ -17,19 +17,19 @@ Después del ejercicio, el equilibrio hídrico puede restituirse relativamente r
 
 ## Estrategias más agresivas
 
--**Hipohidratación severa**: 4 a 5% de masa corporal restablecer equilibrio hídrico rápidamente. ( puede verse afectado el apetito).
+-**Hipohidratación severa**: 4 a 5% de masa corporal; necesario restablecer equilibrio hídrico rápidamente (puede verse afectado el apetito).
 
--**2 sesiones de entrenamiento por dia** : < 8 horas entre sesiones. ( si es más , beber y comer de manera normal será suficiente).(shirreffs y Sawka, 2011).
+-**2 sesiones de entrenamiento por dia** : < 8 horas entre sesiones. ( si es más , beber y comer de manera normal será suficiente) - (*shirreffs y Sawka, 2011*).
 
 -**La comida no puede ser tolerada**:  Los líquidos son una buena forma de suministrar nutrientes como carbohidratos y proteínas.
 
- En la mayoría de las demás situaciones, el agua y el sodio se pueden obtener a través de las practicas normales de alimentación y bebida sin urgencia >> (Laitano, Runco, Baker, 2014, ([https://bit.ly/2BLJG6E](https://bit.ly/2BLJG6E))
+ En la mayoría de las demás situaciones, el agua y el sodio se pueden obtener a través de las practicas normales de alimentación y bebida sin urgencia - (*Laitano, Runco, Baker, 2014, ([https://bit.ly/2BLJG6E](https://bit.ly/2BLJG6E)*)
 
 ## ¿Qué cantidad de líquidos debe consumirse? ¿Cuáles son las mejores bebidas para restituir rápidamente el equilibrio hídrico? 
 
 ### Volumen de líquido
 
- Al beber la cantidad exacta de liquido perdido durante el ejercicio en las 2 a 4 horas posteriores al ejercicio solo se restituirá entre un 50 y 70% del equilibrio hídrico. Esto es debido a que el consumo del liquido da lugar a la expansión del volumen plasmático dando como lugar a la producción de orina. Por eso es necesario beber una cantidad mayor que el liquido perdido. shirreffs y cols. En diferentes estudios ( shirreffs, Taylor, leiper y maughan) , el equilibrio hídrico solo se restituyo completamente 6 horas después, cuando el volumen hídrico ingerido fue mayor que el liquido perdido durante el ejercicio ( 150 y 200%). También se analizó que agregando 61 mmol/l de sodio se mejora el equilibrio hídrico en mas de 23 mmol/l en volúmenes de ingesta de 100% o mas. A partir de diferentes estudios, se extrapoló que los deportistas deben beber 1,5l de un liquido que contenga sodio por cada kg de masa corporal perdida ( shireffs y Sawka, 2011). El volumen adicional compensa la diuresis estimulada por el rápido consumo de grandes volúmenes.
+Al beber la cantidad exacta de líquido perdido durante el ejercicio en las 2 a 4 horas posteriores al ejercicio solo se restituirá entre un 50 y 70% del equilibrio hídrico. Esto es debido a que el consumo del líquido da lugar a la expansión del volumen plasmático dando como lugar a la producción de orina. Por eso es necesario beber una cantidad mayor que el líquido perdido. shirreffs y cols. En diferentes estudios ( shirreffs, Taylor, leiper y maughan) , el equilibrio hídrico solo se restituyo completamente 6 horas después, cuando el volumen hídrico ingerido fue mayor que el líquido perdido durante el ejercicio ( 150 y 200%). También se analizó que agregando 61 mmol/l de sodio se mejora el equilibrio hídrico en mas de 23 mmol/l en volúmenes de ingesta de 100% o mas. A partir de diferentes estudios, se extrapoló que los deportistas deben beber 1,5l de un líquido que contenga sodio por cada kg de masa corporal perdida ( shireffs y Sawka, 2011). El volumen adicional compensa la diuresis estimulada por el rápido consumo de grandes volúmenes.
 
 ### El rol del sodio
 
@@ -37,7 +37,7 @@ El sodio ayudará a restablecer el volumen plasmático y el equilibrio hídrico 
 
 La ingesta de sodio, aumenta la osmolaridad y concentración de sodio en sangre y estimula la reabsorción renal de agua lo que a su vez significa una producción menor de orina. El sodio mas que el potasio es un electrolito fundamental en la impulsión de la hidratación general. 
 
-El volumen del liquido consumido es esencial para la rehidratación post ejercicio. El sodio ayudara mas a la retención.
+El volumen del líquido consumido es esencial para la rehidratación post ejercicio. El sodio ayudara mas a la retención.
 
 ## Bebidas con mejores propiedades hidratantes
 
@@ -82,5 +82,5 @@ Las bebidas deportivas son bastante similares al agua.
 
 > El volumen consumido sigue siendo el factor mas importante independientemente que el tipo de bebida consumida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjUxNDI2OV19
+eyJoaXN0b3J5IjpbNDY3MzQ4ODUxXX0=
 -->
