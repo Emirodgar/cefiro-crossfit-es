@@ -53,9 +53,7 @@ El agua se asocia con el soluto en relación al almacenamiento de glucógeno y p
 
 ## Ejemplos de bebidas hidratantes
 
-Agua de coco
-
-  
+### Agua de coco
 
 Anuncios publicitarios afirman propiedades hidratantes mejores que el agua o bebidas deportivas y aunque contiene carbohidratos y electrolitos contiene muy poco sodio que es el electrolito que realmente es el que realmente importa.
 
@@ -63,11 +61,7 @@ Las afirmaciones son infundadas. Aunque si es una forma de beber líquidos que t
 
 Añadir sodio al agua de coco mejora las propiedades hidratantes con respecto al agua simple ( Jeukendrup, 2018, [https://bit.ly/2FrGFFA](https://bit.ly/2FrGFFA))
 
-  
-
-Leche
-
-  
+### Leche
 
 Determinados estudios nos dicen que la producción de orina acumulada es menor después del consumo de bebidas lácteas. (Shirreffs, Watson y Maughan 2007).
 
@@ -75,9 +69,8 @@ La leche puede ser una bebida efectiva para la rehidratación después del ejerc
 
 La composición de la leche produce un retraso en la entrada de liquido en el torrente sanguíneo y atenúa la reducción de la osmolalidad sérica y como resultado prolonga el estimulo para la absorción renal de agua.
 
-  
 
-Comparación de bebidas
+### Comparación de bebidas
 
   
 
@@ -91,5 +84,5 @@ Las bebidas deportivas son bastante similares al agua.
 
 El volumen consumido sigue siendo el factor mas importante, que el tipo de bebida consumida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjU0ODEzN119
+eyJoaXN0b3J5IjpbLTE5OTUzNDM4MzhdfQ==
 -->
