@@ -47,7 +47,7 @@ En diferentes estudios (*Osterberg, Pallardy, Johnson y Horswill, 2010*) se comp
 
 > Los carbohidratos retrasan el vaciado gástrico y esto afecta a la retención de líquidos.
 
-La respuesta de la insulina a la ingesta de carbohidratos según estudios, podría mejorar la absorción renal de sodio, lo que promueve la retención de agua.
+La respuesta de la insulina a la ingesta de carbohidratos, según estudios, podría mejorar la absorción renal de sodio, lo que promueve la retención de agua.
 
 El agua se asocia con el soluto en relación al almacenamiento de glucógeno y puede aumentar la retención intracelular y el agua corporal total.
 
@@ -59,7 +59,7 @@ Anuncios publicitarios afirman propiedades hidratantes mejores que el agua o beb
 
 Las afirmaciones son infundadas. Aunque si es una forma de beber líquidos que también contiene carbohidratos y electrolitos.
 
-Añadir sodio al agua de coco mejora las propiedades hidratantes con respecto al agua simple ( Jeukendrup, 2018, [https://bit.ly/2FrGFFA](https://bit.ly/2FrGFFA))
+Añadir sodio al agua de coco mejora las propiedades hidratantes con respecto al agua simple (Jeukendrup, 2018, [https://bit.ly/2FrGFFA](https://bit.ly/2FrGFFA))
 
 ### Leche
 
@@ -82,6 +82,6 @@ Las bebidas deportivas son bastante similares al agua.
 
 > El volumen consumido sigue siendo el factor mas importante independientemente que el tipo de bebida consumida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NTMwNDgwMSwtNTcxOTI0MjgzLDE2OD
-c3Mjc2NTVdfQ==
+eyJoaXN0b3J5IjpbNTY2MjY5MTc5LC01NzE5MjQyODMsMTY4Nz
+cyNzY1NV19
 -->
