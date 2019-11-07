@@ -33,9 +33,9 @@ Al beber la cantidad exacta de líquido perdido durante el ejercicio en las 2 a 
 
 ### El rol del sodio
 
-El sodio ayudará a restablecer el volumen plasmático y el equilibrio hídrico en todo el cuerpo, en comparación con la ingesta de agua simple.( Keil, Love y Philips, 2007).
+El sodio ayudará a restablecer el volumen plasmático y el equilibrio hídrico en todo el cuerpo, en comparación con la ingesta de agua simple (*Keil, Love y Philips, 2007*).
 
-La ingesta de sodio, aumenta la osmolaridad y concentración de sodio en sangre y estimula la reabsorción renal de agua lo que a su vez significa una producción menor de orina. El sodio mas que el potasio es un electrolito fundamental en la impulsión de la hidratación general. 
+La ingesta de sodio, aumenta la osmolaridad y concentración de sodio en sangre y estimula la reabsorción renal de agua, lo que a su vez significa una producción menor de orina. **El sodio **-más que el potasio-** es un electrolito fundamental en la impulsión de la hidratación general**. 
 
 El volumen del líquido consumido es esencial para la rehidratación post ejercicio. El sodio ayudara mas a la retención.
 
@@ -82,5 +82,5 @@ Las bebidas deportivas son bastante similares al agua.
 
 > El volumen consumido sigue siendo el factor mas importante independientemente que el tipo de bebida consumida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzcyNzY1NV19
+eyJoaXN0b3J5IjpbLTU3MTkyNDI4MywxNjg3NzI3NjU1XX0=
 -->
