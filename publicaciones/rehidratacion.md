@@ -74,12 +74,15 @@ La composición de la leche produce un retraso en la entrada de líquido en el t
 
 Según el BHI, índice de hidratación de bebidas (medida de la rapidez con la que una bebida puede rehidratar a una persona en horas posteriores a la deshidratación) cuanto más alto es, mayor es el líquido que se retiene.
 
-Las soluciones de rehidratación oral tienen el valor mas elevado. La leche desnatada, entera o el zumo de naranja también tienen una buena puntuación.
+Como conclusiones, podemos decir que:
+
+- Las soluciones de rehidratación oral tienen el valor mas elevado. 
+- La leche desnatada, entera o el zumo de naranja también tienen una buena puntuación.
 
 Las bebidas deportivas son bastante similares al agua.
 
 > El volumen consumido sigue siendo el factor mas importante independientemente que el tipo de bebida consumida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzA3OTgzNCw1NjYyNjkxNzksLTU3MT
-kyNDI4MywxNjg3NzI3NjU1XX0=
+eyJoaXN0b3J5IjpbLTE2MzQyNzQxMzgsNTY2MjY5MTc5LC01Nz
+E5MjQyODMsMTY4NzcyNzY1NV19
 -->
