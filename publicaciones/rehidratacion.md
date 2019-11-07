@@ -29,7 +29,7 @@ Después del ejercicio, el equilibrio hídrico puede restituirse relativamente r
 
 ### Volumen de líquido
 
-Al beber la cantidad exacta de líquido perdido durante el ejercicio en las 2 a 4 horas posteriores al ejercicio, **sólo se restituirá entre un 50 y 70% del equilibrio hídrico**. Esto es debido a que el consumo del líquido provoca la expansión del volumen plasmático dando como lugar a la producción de orina. Por eso es necesario beber una cantidad mayor que el líquido perdido (*Shirreffs y Cols*). En diferentes estudios (*Shirreffs, Taylor, Leiper y Maughan*) , el equilibrio hídrico solo se restituyó completamente 6 horas después, cuando el volumen hídrico ingerido fue mayor que el líquido perdido durante el ejercicio (entre 150 y 200%). También se analizó que agregando 61 mmol/l de sodio se mejora el equilibrio hídrico en mas de 23 mmol/l en volúmenes de ingesta de 100% o mas. A partir de diferentes estudios, se extrapoló que los deportistas deben beber 1,5l de un líquido que contenga sodio por cada kg de masa corporal perdida ( shireffs y Sawka, 2011). El volumen adicional compensa la diuresis estimulada por el rápido consumo de grandes volúmenes.
+Al beber la cantidad exacta de líquido perdido durante el ejercicio en las 2 a 4 horas posteriores al ejercicio, **sólo se restituirá entre un 50 y 70% del equilibrio hídrico**. Esto es debido a que el consumo del líquido provoca la expansión del volumen plasmático dando como lugar a la producción de orina. Por eso es necesario beber una cantidad mayor que el líquido perdido (*Shirreffs y Cols*). En diferentes estudios (*Shirreffs, Taylor, Leiper y Maughan*) , el equilibrio hídrico solo se restituyó completamente 6 horas después, cuando el volumen hídrico ingerido fue mayor que el líquido perdido durante el ejercicio (entre 150 y 200%). También se analizó que agregando 61 mmol/l de sodio se mejora el equilibrio hídrico en más de 23 mmol/l en volúmenes de ingesta de 100% o más. A partir de diferentes estudios, se extrapoló que los deportistas deben **beber 1,5l de un líquido que contenga sodio por cada kg de masa corporal perdida** ( *Shireffs y Sawka, 2011*). El volumen adicional compensa la diuresis estimulada por el rápido consumo de grandes volúmenes.
 
 ### El rol del sodio
 
@@ -82,5 +82,5 @@ Las bebidas deportivas son bastante similares al agua.
 
 > El volumen consumido sigue siendo el factor mas importante independientemente que el tipo de bebida consumida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwODk4NTg3XX0=
+eyJoaXN0b3J5IjpbMTY4NzcyNzY1NV19
 -->
