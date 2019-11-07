@@ -80,7 +80,7 @@ La leche desnatada, entera o el zumo de naranja también tienen una buena puntua
 
 Las bebidas deportivas son bastante similares al agua.
 
-> El volumen consumido sigue siendo el factor mas importante, que el tipo de bebida consumida.
+> El volumen consumido sigue siendo el factor mas importante independientemente que el tipo de bebida consumida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMTcwODgwMF19
+eyJoaXN0b3J5IjpbLTc0NDQ5ODE1XX0=
 -->
