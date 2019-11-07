@@ -45,7 +45,7 @@ El volumen del líquido consumido es esencial para la rehidratación *post* ejer
 
 En diferentes estudios (*Osterberg, Pallardy, Johnson y Horswill, 2010*) se comprobó que los deportistas con una deshidratación del 2-3% que bebieron agua, un placebo o una solución con carbohidratos en diferentes concentraciones (3%, 6%, 12%) -consumiendo un volumen necesario para reponer el 100% de perdidas durante el ejercicio- 4 horas de rehidratación más tarde, se pudo constatar que la retención de líquidos fue mayor con las bebidas que contenían carbohidratos en comparación con el agua.
 
-Los carbohidratos retrasan el vaciado gástrico y esto afecta a la retención de líquidos.
+> Los carbohidratos retrasan el vaciado gástrico y esto afecta a la retención de líquidos.
 
 La respuesta de la insulina a la ingesta de carbohidratos según estudios, podría mejorar la absorción renal de sodio, lo que promueve la retención de agua.
 
@@ -82,6 +82,6 @@ Las bebidas deportivas son bastante similares al agua.
 
 > El volumen consumido sigue siendo el factor mas importante independientemente que el tipo de bebida consumida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI5MzA0OTksLTU3MTkyNDI4MywxNj
-g3NzI3NjU1XX0=
+eyJoaXN0b3J5IjpbLTY4NTMwNDgwMSwtNTcxOTI0MjgzLDE2OD
+c3Mjc2NTVdfQ==
 -->
