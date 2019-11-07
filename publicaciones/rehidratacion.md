@@ -25,7 +25,7 @@ Después del ejercicio, el equilibrio hídrico puede restituirse relativamente r
 
  En la mayoría de las demás situaciones, el agua y el sodio se pueden obtener a través de las practicas normales de alimentación y bebida sin urgencia >> (Laitano, Runco, Baker, 2014, ([https://bit.ly/2BLJG6E](https://bit.ly/2BLJG6E))
 
-## ¿Qué cantidad de líquidos debe consumirse?¿QUÉ CANTIDAD DE LIQUIDOS DEBE CONSUMIRSE? ¿CUÁLES SON LAS MEJORES BEBIDAS PARA RESTITUIR RAPIDAMENTE EL EQUILIBRIO HIDRICO?
+## ¿Qué cantidad de líquidos debe consumirse? ¿Cuáles son las mejores bebidas para restituir rápidamente el equilibrio hídrico? 
 
 ### Volumen de líquido
 
@@ -72,8 +72,6 @@ La composición de la leche produce un retraso en la entrada de liquido en el to
 
 ### Comparación de bebidas
 
-  
-
 Según el BHI , índice de hidratación de bebidas ( medida de la rapidez con la que una bebida puede rehidratar a una persona en horas posteriores a la deshidratación) cuanto mas alto es , mayor es el liquido que se retiene.
 
 Las soluciones de rehidratación oral tienen el valor mas elevado .
@@ -82,7 +80,7 @@ La leche desnatada, entera o el zumo de naranja también tienen una buena puntua
 
 Las bebidas deportivas son bastante similares al agua.
 
-El volumen consumido sigue siendo el factor mas importante, que el tipo de bebida consumida.
+> El volumen consumido sigue siendo el factor mas importante, que el tipo de bebida consumida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUzNDM4MzhdfQ==
+eyJoaXN0b3J5IjpbMTYzMTcwODgwMF19
 -->
