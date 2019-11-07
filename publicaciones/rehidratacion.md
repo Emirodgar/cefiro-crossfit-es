@@ -55,15 +55,15 @@ El agua se asocia con el soluto en relación al almacenamiento de glucógeno y p
 
 ### Agua de coco
 
-Anuncios publicitarios afirman propiedades hidratantes mejores que el agua o bebidas deportivas y aunque contiene carbohidratos y electrolitos contiene muy poco sodio que es el electrolito que realmente es el que realmente importa.
+Anuncios publicitarios afirman que el agua de coco tiene propiedades hidratantes mejores que el agua o bebidas deportivas y aunque contiene carbohidratos y electrolitos, contiene muy poco sodio, que es el electrolito que realmente importa.
 
-Las afirmaciones son infundadas. Aunque si es una forma de beber líquidos que también contiene carbohidratos y electrolitos.
+Las afirmaciones son infundadas. Aunque sí es una forma de beber líquidos que también contiene carbohidratos y electrolitos.
 
 Añadir sodio al agua de coco mejora las propiedades hidratantes con respecto al agua simple (Jeukendrup, 2018, [https://bit.ly/2FrGFFA](https://bit.ly/2FrGFFA))
 
 ### Leche
 
-Determinados estudios nos dicen que la producción de orina acumulada es menor después del consumo de bebidas lácteas. (Shirreffs, Watson y Maughan 2007).
+Determinados estudios nos dicen que la producción de orina acumulada es menor después del consumo de bebidas lácteas. (*Shirreffs, Watson y Maughan 2007*).
 
 La leche puede ser una bebida efectiva para la rehidratación después del ejercicio. Además ayuda a alcanzar los requisitos de proteínas y carbohidratos.
 
@@ -72,7 +72,7 @@ La composición de la leche produce un retraso en la entrada de líquido en el t
 
 ### Comparación de bebidas
 
-Según el BHI , índice de hidratación de bebidas ( medida de la rapidez con la que una bebida puede rehidratar a una persona en horas posteriores a la deshidratación) cuanto mas alto es , mayor es el líquido que se retiene.
+Según el BHI, índice de hidratación de bebidas (medida de la rapidez con la que una bebida puede rehidratar a una persona en horas posteriores a la deshidratación) cuanto más alto es, mayor es el líquido que se retiene.
 
 Las soluciones de rehidratación oral tienen el valor mas elevado .
 
@@ -82,6 +82,6 @@ Las bebidas deportivas son bastante similares al agua.
 
 > El volumen consumido sigue siendo el factor mas importante independientemente que el tipo de bebida consumida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2MjY5MTc5LC01NzE5MjQyODMsMTY4Nz
-cyNzY1NV19
+eyJoaXN0b3J5IjpbLTI3MTc3MTE2Miw1NjYyNjkxNzksLTU3MT
+kyNDI4MywxNjg3NzI3NjU1XX0=
 -->
