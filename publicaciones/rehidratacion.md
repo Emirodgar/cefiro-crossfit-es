@@ -37,13 +37,13 @@ El sodio ayudará a restablecer el volumen plasmático y el equilibrio hídrico 
 
 La ingesta de sodio, aumenta la osmolaridad y concentración de sodio en sangre y estimula la reabsorción renal de agua, lo que a su vez significa una producción menor de orina. **El sodio **-más que el potasio-** es un electrolito fundamental en la impulsión de la hidratación general**. 
 
-El volumen del líquido consumido es esencial para la rehidratación post ejercicio. El sodio ayudara mas a la retención.
+El volumen del líquido consumido es esencial para la rehidratación *post* ejercicio. El sodio ayudará más a la retención.
 
 ## Bebidas con mejores propiedades hidratantes
 
 ### Bebidas con carbohidratos
 
-En diferentes estudios ( osterberg, Pallardy, Johnson y Horswill, 2010), los deportistas con una deshidratación del 2-3% que bebieron agua, un placebo o una solución con carbohidratos en diferentes concentraciones( 3%,6%,12%). Consumiendo un volumen necesario para reponer el 100% de perdidas durante el ejercicio. 4 horas de rehidratación mas tarde la retención de líquidos fue mayor con las bebidas que contenían carbohidratos en comparación con el agua.
+En diferentes estudios (*Osterberg, Pallardy, Johnson y Horswill, 2010*), los deportistas con una deshidratación del 2-3% que bebieron agua, un placebo o una solución con carbohidratos en diferentes concentraciones (3%, 6%, 12%) -consumiendo un volumen necesario para reponer el 100% de perdidas durante el ejercicio- 4 horas de rehidratación más tarde, la retención de líquidos fue mayor con las bebidas que contenían carbohidratos en comparación con el agua.
 
 Los carbohidratos retrasan el vaciado gástrico y esto afecta a la retención de líquidos.
 
@@ -82,5 +82,6 @@ Las bebidas deportivas son bastante similares al agua.
 
 > El volumen consumido sigue siendo el factor mas importante independientemente que el tipo de bebida consumida.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTkyNDI4MywxNjg3NzI3NjU1XX0=
+eyJoaXN0b3J5IjpbODI3ODEwNjA5LC01NzE5MjQyODMsMTY4Nz
+cyNzY1NV19
 -->
