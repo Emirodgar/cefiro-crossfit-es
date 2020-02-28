@@ -20,7 +20,7 @@ Sí es cierto que cuando partimos de una baja forma física o de una rutina de e
 
 Llegados a este punto es cuestión de tiempo llegar a aburrirnos, frustrarnos y finalmente abandonar el deporte.
 
-Esto es el síndrome de **burn out** (quemado) en el ámbito deportivo.  Y no es exclusivo a nuestra práctica deportiva, si no que es común a todos los deportes.
+> Esto es el síndrome de **burn out** (quemado) en el ámbito deportivo.  Y no es exclusivo a nuestra práctica deportiva, si no que es común a todos los deportes.
 
 Si entrenamos sin objetivos, si nos mantenemos durante mucho tiempo en esta zona estancada sin duda acabaremos “quemados".
 
@@ -76,5 +76,6 @@ del deporte (UCLM).
 – González, J.M.; Navarro, F.; Delgado, M.; García, J.M. (2010). Fundamentos del
 entrenamiento deportivo. Sevilla: editorial Wanceulen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzUzNjczNiw1NDY5ODc1NjRdfQ==
+eyJoaXN0b3J5IjpbMTc4ODQzMzUzOCwxNDIzNTM2NzM2LDU0Nj
+k4NzU2NF19
 -->
