@@ -32,10 +32,11 @@ y convertir nuestra situación estancada en un torbellino.
 
 ## ¿Cómo planificamos?
 
-Sin entrar en vocabulario demasiado técnico, vamos a explicar brevemente en qué consiste
-programar.
+Sin entrar en vocabulario demasiado técnico, vamos a explicar brevemente en qué consiste programar.
 
 Organización del entrenamiento: la planificación se distribuye en bloques de tiempo, de mayor a menor:
+
+![enter image description here](https://i.imgur.com/A5195J5.png)
 
 ### MACROCICLO
 
@@ -49,6 +50,11 @@ Para personas que no buscan un fin concreto, el macrociclo es abierto. Si concre
 Es el conjunto de ciclos de entre 3 y 6 semanas que a su vez conforman el macrociclo. Cada mesociclo tiene un objetivo diferente en función del momento de la temporada.
 
 ### MICROCICLO
+
+Conjunto de entrenamientos que conforman el microciclo, generalmente coincide con una semana. Dentro de los micro ciclos encontramos las sesiones de entrenamiento, las cuales tienen objetivos de manera individual.
+
+Dentro de un microciclo encontraremos podremos encontrar sesionesde altos volúmenes de carga, cargas pesadas, trabajos técnicos, días de descarga, etc en función del objetivo que se
+busca en ese momento de la temporada.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzU1NTYyMF19
+eyJoaXN0b3J5IjpbLTE0NDQ4MjE3NTZdfQ==
 -->
