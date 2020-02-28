@@ -29,6 +29,26 @@ suelo después de acabar el *wod* y chocar el puño con tus compañeros. Cada en
 y convertir nuestra situación estancada en un torbellino.
 
 > Recuerda, si odias un ejercicio es que no lo has hecho suficientes veces.
+
+## ¿Cómo planificamos?
+
+Sin entrar en vocabulario demasiado técnico, vamos a explicar brevemente en qué consiste
+programar.
+
+Organización del entrenamiento: la planificación se distribuye en bloques de tiempo, de mayor a menor:
+
+### MACROCICLO
+
+Plan a largo plazo, para atletas de alto rendimiento normalmente se pueden clasificar en cliclos, anuales, bianuales o cliclos olímpicos (4 años).
+
+Para personas que no buscan un fin concreto, el macrociclo es abierto. Si concretamos, la programación que seguimos actualmente busca el punto de rendimiento
+óptimo en los Open, que comienzan en Septiembre.
+
+### MESOCICLO
+
+Es el conjunto de ciclos de entre 3 y 6 semanas que a su vez conforman el macrociclo. Cada mesociclo tiene un objetivo diferente en función del momento de la temporada.
+
+### MICROCICLO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5Mjg4NjYzXX0=
+eyJoaXN0b3J5IjpbLTY1MzU1NTYyMF19
 -->
