@@ -72,8 +72,9 @@ Entonces en resumidas cuentas, **¿porque seguimos una programación?** Para cre
 
 – González, J.M. (2013). Apuntes de teoría del entrenamiento deportivo. Facultad de Ciencias
 del deporte (UCLM).
+
 – González, J.M.; Navarro, F.; Delgado, M.; García, J.M. (2010). Fundamentos del
 entrenamiento deportivo. Sevilla: editorial Wanceulen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2OTg3NTY0XX0=
+eyJoaXN0b3J5IjpbLTMxODIxMzE4Niw1NDY5ODc1NjRdfQ==
 -->
