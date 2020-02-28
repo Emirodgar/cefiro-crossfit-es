@@ -36,7 +36,6 @@ Sin entrar en vocabulario demasiado técnico, vamos a explicar brevemente en qu�
 
 Organización del entrenamiento: la planificación se distribuye en bloques de tiempo, de mayor a menor:
 
-![enter image description here](https://i.imgur.com/A5195J5.png)
 
 ### MACROCICLO
 
@@ -55,6 +54,16 @@ Conjunto de entrenamientos que conforman el microciclo, generalmente coincide co
 
 Dentro de un microciclo encontraremos podremos encontrar sesionesde altos volúmenes de carga, cargas pesadas, trabajos técnicos, días de descarga, etc en función del objetivo que se
 busca en ese momento de la temporada.
+
+## Sesión de entrenamiento
+
+![enter image description here](https://i.imgur.com/A5195J5.png)
+
+Aunque existen diferentes tipos de planificación nuestro modelo se basa en el ATR (Issurin y Kaverin) que recibe su nombre de los mesociclos que lo forman:
+
+1 - **Acumulación**: en este mesociclo se concentra la carga de entrenamiento aplicando cargas con volúmenes altos a intensidades moderadas. Aquí buscamos aunmentar la fuerza maxima, resistencia aeróbica y técnica básica. Aquí toca trabajar con peso, que nos dará una base firme y consistente para lo que viene más adelante.
+2 - **Transformación**: en este mesociclo se aumenta la intensidad de entrenamiento (wods más duros) y se reduce el volumen (menos trabajo de fuerza general) intentando trasformar la mejora funcional conseguida en el anterior mesociclo de acumulación a una mejora más específica. Aquí nos daremos cuenta de la progresión de los ejercicios (por ejemplo el trabajo
+de V-ups se traduce en Toes To Bar)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ4MjE3NTZdfQ==
+eyJoaXN0b3J5IjpbMTA4NTcyNzQ5OV19
 -->
