@@ -14,7 +14,7 @@ En este artículo queremos daros una pequeña visión general de que es la **pla
 La programación y planificación deportiva se puede comprar con los planos de una casa y su construcción. Cuando comenzamos a construir, sabemos bien que debemos seguir un orden
 para replicar los planos dibujados, los planos son aquello que queremos alcanzar y seguirlos detallada y progresivamente nos llevará al objetivo que buscamos.
 
-Toda programación debe tener un sentido y un orden, ninguna programación aleatoria nos llevará a conseguir una verdadera mejora física. 
+> Toda programación debe tener un sentido y un orden, ninguna programación aleatoria nos llevará a conseguir una verdadera mejora física. 
 
 Sí es cierto que cuando partimos de una baja forma física o de una rutina de entrenamiento diferente, conseguiremos cambios de forma rápida, pero estos no siguen de forma exponencial como pasa en los primeros tres meses de entrenamiento, si no que poco a poco los cambios serán menores hasta **llegar a estancarnos**.
 
@@ -76,5 +76,5 @@ del deporte (UCLM).
 – González, J.M.; Navarro, F.; Delgado, M.; García, J.M. (2010). Fundamentos del
 entrenamiento deportivo. Sevilla: editorial Wanceulen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODIxMzE4Niw1NDY5ODc1NjRdfQ==
+eyJoaXN0b3J5IjpbMTQyMzUzNjczNiw1NDY5ODc1NjRdfQ==
 -->
