@@ -63,7 +63,17 @@ Aunque existen diferentes tipos de planificación nuestro modelo se basa en el A
 
 1 - **Acumulación**: en este mesociclo se concentra la carga de entrenamiento aplicando cargas con volúmenes altos a intensidades moderadas. Aquí buscamos aunmentar la fuerza maxima, resistencia aeróbica y técnica básica. Aquí toca trabajar con peso, que nos dará una base firme y consistente para lo que viene más adelante.
 2 - **Transformación**: en este mesociclo se aumenta la intensidad de entrenamiento (wods más duros) y se reduce el volumen (menos trabajo de fuerza general) intentando trasformar la mejora funcional conseguida en el anterior mesociclo de acumulación a una mejora más específica. Aquí nos daremos cuenta de la progresión de los ejercicios (por ejemplo el trabajo
-de V-ups se traduce en Toes To Bar)
+de V-ups se traduce en Toes To Bar).
+3- **Realización**: llegamos a nuestro punto más alto de rendimiento del macrociclo, que coincide con los open, para conseguir nuestros mejores resultados deportivos.
+
+Entonces en resumidas cuentas, **¿porque seguimos una programación?** Para crear una base que sirve de cimientos sólidos para un desarrollo deportivo óptimo, para no estancarnos y no lesionarnos y para alcanzar nuestro mayor potencial deportivo y de satisfacción personal.
+
+### Bibliografía
+
+– González, J.M. (2013). Apuntes de teoría del entrenamiento deportivo. Facultad de Ciencias
+del deporte (UCLM).
+– González, J.M.; Navarro, F.; Delgado, M.; García, J.M. (2010). Fundamentos del
+entrenamiento deportivo. Sevilla: editorial Wanceulen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTcyNzQ5OV19
+eyJoaXN0b3J5IjpbNTQ2OTg3NTY0XX0=
 -->
