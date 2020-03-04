@@ -11,7 +11,7 @@ permalink: planificacion
 
 En este artículo queremos daros una pequeña visión general de que es la **planificación deportiva**.
 
-La programación y planificación deportiva se puede comprar con los planos de una casa y su construcción. Cuando comenzamos a construir, sabemos bien que debemos seguir un orden
+La programación y planificación deportiva se puede comparar con los planos de una casa y su construcción. Cuando comenzamos a construir, sabemos bien que debemos seguir un orden
 para replicar los planos dibujados, los planos son aquello que queremos alcanzar y seguirlos detallada y progresivamente nos llevará al objetivo que buscamos.
 
 > Toda programación debe tener un sentido y un orden, ninguna programación aleatoria nos llevará a conseguir una verdadera mejora física. 
@@ -52,7 +52,7 @@ Es el conjunto de ciclos de entre 3 y 6 semanas que a su vez conforman el macroc
 
 Conjunto de entrenamientos que conforman el microciclo, generalmente coincide con una semana. Dentro de los micro ciclos encontramos las sesiones de entrenamiento, las cuales tienen objetivos de manera individual.
 
-Dentro de un microciclo encontraremos podremos encontrar sesionesde altos volúmenes de carga, cargas pesadas, trabajos técnicos, días de descarga, etc en función del objetivo que se
+Dentro de un microciclo podremos encontrar sesiones de altos volúmenes de carga, cargas pesadas, trabajos técnicos, días de descarga, etc en función del objetivo que se
 busca en ese momento de la temporada.
 
 ## Sesión de entrenamiento
@@ -76,6 +76,6 @@ del deporte (UCLM).
 – González, J.M.; Navarro, F.; Delgado, M.; García, J.M. (2010). Fundamentos del
 entrenamiento deportivo. Sevilla: editorial Wanceulen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODQzMzUzOCwxNDIzNTM2NzM2LDU0Nj
-k4NzU2NF19
+eyJoaXN0b3J5IjpbLTEzNDc0MDQzNzksMTc4ODQzMzUzOCwxND
+IzNTM2NzM2LDU0Njk4NzU2NF19
 -->
