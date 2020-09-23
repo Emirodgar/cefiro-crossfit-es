@@ -16,7 +16,7 @@ Es un método que consiste en respirar durante un tiempo determinado aire filtra
 
 Según el estímulo que se aplique, este método puede tener efectos beneficiosos en la salud, así como en la mejora del rendimiento deportivo, tanto en deportes de resistencia como en deportes de alta intensidad. El estímulo de hipoxia aplicado induce un aumento del Factor Inducible por la Hipoxia que provoca la estimulación de diferentes hormonas, proteínas… como la eritropoyetina y diferentes hormonas anabólicas.
 
-**Algunos de los efectos demostrados científicamente son**
+## Efectos demostrados científicamente
 
 |  |
 |--|
@@ -84,5 +84,5 @@ DEPORTISTA DE ALTO RENDIMIENTO CON RESULTADOS DESTACABLES COMO:
 
 EXPERIENCIA EN LA UTILIZACIÓN DE LA HIPOXIA DURANTE SU ÉPOCA DE DEPORTISTA.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzc2NjgxOV19
+eyJoaXN0b3J5IjpbMTc0MzY1MzA2MywtODEzNzY2ODE5XX0=
 -->
