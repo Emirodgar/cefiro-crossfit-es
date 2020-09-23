@@ -34,9 +34,11 @@ Para alcanzar los beneficios y adaptaciones de este método, es necesario realiz
 
 La hipoxia intermitente es un método seguro y eficaz siempre que se utilice con un protocolo individualizado y sea controlado por especialistas.
 
-## JAVIER ALVES VAS
+En Céfiro CrossFit contamos con algunos de los profesores más capacitados para llevar a cabo esta disciplina.
 
-LICENCIADO Y DOCTOR EN CIENCIAS DE LA ACTIVIDAD FÍSICA Y DEL DEPORTE en el área de Fisiología por la Universidad de Extremadura.
+## Javier Alves Vas
+
+Javier es LICENCIADO Y DOCTOR EN CIENCIAS DE LA ACTIVIDAD FÍSICA Y DEL DEPORTE en el área de Fisiología por la Universidad de Extremadura.
 
 PROFESOR EN EL GRADO DE CAFYD DE LA UNIVERSIDAD PONTIFICIA DE SALAMANCA. Asignaturas de planificación del entrenamiento deportivo y nuevas tendencias del acondicionamiento físico.
 
@@ -84,5 +86,5 @@ DEPORTISTA DE ALTO RENDIMIENTO CON RESULTADOS DESTACABLES COMO:
 
 EXPERIENCIA EN LA UTILIZACIÓN DE LA HIPOXIA DURANTE SU ÉPOCA DE DEPORTISTA.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzQwNzgxNl19
+eyJoaXN0b3J5IjpbMTk1NTM1NDE0N119
 -->
