@@ -18,17 +18,15 @@ Según el estímulo que se aplique, este método puede tener efectos beneficioso
 
 **Algunos de los efectos demostrados científicamente son**
 
--   Mejoras en los parámetros hematológicos.
-    
--   Mejora la capacidad de entrenamiento y en la capacidad de recuperación.
-    
--   Adaptaciones de los sistemas cardiovascular y respiratorio: aumenta la vasodilatación, reducción de la presión arterial, mejora la capacidad pulmonar…, es decir, el transporte de oxígeno.
-    
--   Mejora en la actividad de las enzimas oxidativas y glucolíticas: optimización del sistema energético.
-    
--   Mejorar del estado anímico y la calidad del sueño, por su efecto modulador de neurotransmisores como la serotonina.
-    
--   Aumento de la capacidad antioxidante del organismo.
+|  |
+|--|
+| Mejoras en los parámetros hematológicos. |  
+| Mejora la capacidad de entrenamiento y en la capacidad de recuperación. | 
+| Adaptaciones de los sistemas cardiovascular y respiratorio: aumenta la vasodilatación, reducción de la presión arterial, mejora la capacidad pulmonar…, es decir, el transporte de oxígeno. | 
+| Mejora en la actividad de las enzimas oxidativas y glucolíticas: optimización del sistema energético. | 
+| Mejorar del estado anímico y la calidad del sueño, por su efecto modulador de neurotransmisores como la serotonina. | 
+|  Aumento de la capacidad antioxidante del organismo. | 
+
 
 Para alcanzar los beneficios y adaptaciones de este método, es necesario realizar un protocolo continuado de varias sesiones durante varias semanas, ya que sesiones individuales apenas proporcionarán mejoras.
 
@@ -63,7 +61,7 @@ DEPORTISTA DE ALTO NIVEL CON RESULTADOS DESTACABLES COMO:
 
 EXPERIENCIA EN LA UTILIZACIÓN DE LA HIPOXIA DURANTE SU ÉPOCA DE DEPORTISTA.
 
-GEMA BARRIENTOS VICHO
+## Gema Barrientos Vicho
 
 LICENCIADA EN CIENCIAS DE LA ACTIVIDAD FÍSICA Y DEL DEPORTE por la Universidad Politécnica de Madrid y DOCTORA EN CIENCIAS DE LA ACTIVIDAD FÍSICA Y DEL DEPORTE por la Universidad de Extremadura en el área de Fisiología.
 
@@ -86,5 +84,5 @@ DEPORTISTA DE ALTO RENDIMIENTO CON RESULTADOS DESTACABLES COMO:
 
 EXPERIENCIA EN LA UTILIZACIÓN DE LA HIPOXIA DURANTE SU ÉPOCA DE DEPORTISTA.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTM1NDE0N119
+eyJoaXN0b3J5IjpbLTgxMzc2NjgxOV19
 -->
