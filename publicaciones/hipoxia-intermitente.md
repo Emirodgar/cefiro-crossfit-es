@@ -20,12 +20,12 @@ Según el estímulo que se aplique, este método puede tener efectos beneficioso
 
 |  |
 |--|
-| Mejoras en los parámetros hematológicos. |  
-| Mejora la capacidad de entrenamiento y en la capacidad de recuperación. | 
-| Adaptaciones de los sistemas cardiovascular y respiratorio: aumenta la vasodilatación, reducción de la presión arterial, mejora la capacidad pulmonar…, es decir, el transporte de oxígeno. | 
-| Mejora en la actividad de las enzimas oxidativas y glucolíticas: optimización del sistema energético. | 
-| Mejorar del estado anímico y la calidad del sueño, por su efecto modulador de neurotransmisores como la serotonina. | 
-|  Aumento de la capacidad antioxidante del organismo. | 
+| 1. Mejoras en los parámetros hematológicos. |  
+| 2. Mejora la capacidad de entrenamiento y en la capacidad de recuperación. | 
+| 3. Adaptaciones de los sistemas cardiovascular y respiratorio: aumenta la vasodilatación, reducción de la presión arterial, mejora la capacidad pulmonar…, es decir, el transporte de oxígeno. | 
+| 4. Mejora en la actividad de las enzimas oxidativas y glucolíticas: optimización del sistema energético. | 
+| 5. Mejorar del estado anímico y la calidad del sueño, por su efecto modulador de neurotransmisores como la serotonina. | 
+| 6. Aumento de la capacidad antioxidante del organismo. | 
 
 
 Para alcanzar los beneficios y adaptaciones de este método, es necesario realizar un protocolo continuado de varias sesiones durante varias semanas, ya que sesiones individuales apenas proporcionarán mejoras.
@@ -70,6 +70,6 @@ CAMPEONA DE ESPAÑA Y VARIAS MEDALLAS EN CAMPEONATOS DE ESPAÑA.
 
 EXPERIENCIA EN LA UTILIZACIÓN DE LA HIPOXIA DURANTE SU ÉPOCA DE DEPORTISTA.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTkyNTY1MCwxNzQzNjUzMDYzLC04MT
-M3NjY4MTldfQ==
+eyJoaXN0b3J5IjpbLTIxMzU1Mzc2NywtMzE5OTI1NjUwLDE3ND
+M2NTMwNjMsLTgxMzc2NjgxOV19
 -->
