@@ -5,7 +5,7 @@ lang: es_ES
 author: Emirodgar
 tags: deporte
 date: 16/08/2019
-permalink: bar
+permalink: menu-bar
 
 ---
 
@@ -16,4 +16,6 @@ La alimentación es tan importante como el ejercicio físico. En Céfiro, el box
 ![Menú Céfiro bar](https://cefirocrossfit.es/images/blog/menu.png)
 
 Sigue [nuestro instagram](https://www.instagram.com/cefirocrossfit/) para estar a la última en tendencias de alimentación sana.
+
+¿Aún no conoces Céfiro? [ven a probarnos gratis](https://cefirocrossfit.es/#footer), seguro que descrubres que hacer deporte y comer sano es más divertido y fácil de lo que pensabas.
 
