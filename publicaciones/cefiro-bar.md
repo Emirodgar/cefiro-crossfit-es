@@ -11,7 +11,15 @@ permalink: menu-bar
 
 # Céfiro bar
 
-La alimentación es tan importante como el ejercicio físico. En Céfiro, el box más grande de CrossFit de Salamanca, lo sabemos y por ello os ofrecemos un menú a la altura de vuestro rendimiento. Nunca ha sido tan sencillo entrenar y comer en el mismo sitio.
+Nuestro objetivo es proporcionar un camino seguro hacia la salud **a través de una alimentación equilibrada adaptada al deporte**, para mejorar tu condición física.
+
+No todas las personas tenemos las mismas necesidades nutricionales ,factores como
+el trabajo , el sueño, el deporte o la composición corporal, hacen que sea imprescindible
+adaptar nuestra dieta a nuestro día a día para obtener todos los beneficios que nos
+proporcionan los alimentos a través de sus nutrientes.
+
+
+La alimentación es tan importante como el ejercicio físico. En Céfiro, el box más grande de CrossFit en Salamanca, lo sabemos y por ello os ofrecemos un menú a la altura de vuestro rendimiento. Nunca ha sido tan sencillo entrenar y comer en el mismo sitio.
 
 ![Menú Céfiro bar](https://cefirocrossfit.es/images/blog/menu.png)
 
