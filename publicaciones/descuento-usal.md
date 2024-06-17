@@ -17,11 +17,11 @@ Si eres estudiante o trabajador de la Universidad de Salamanca (USAL) estás de 
 
 Los precios para cualquier persona que tenga relación con la USAL quedarían de la siguiente manera:
 
- 2 wods semanales **50 € al mes**.
+ 2 wods semanales **60 € al mes**.
  
- 3 wods semanales **60 € al mes**.
+ 3 wods semanales **70 € al mes**.
  
- Ilimitados por semana **70 € al mes**.
+ Ilimitados por semana **80 € al mes**.
    
 Se trata de **10€ de descuento sobre las cuotas existentes**.
 
