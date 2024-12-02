@@ -11,7 +11,7 @@ permalink: crossfit-ninos-salamanca
 
 # CrossFit para niños en Salamanca
 
- > En Céfiro CrossFit ofrecemos clases para niños con **edades entre 5 y 14 años**.
+ > En Céfiro CrossFit ofrecemos clases para niños con **edades entre 5 y 14 años**. El precio por un día a la semana son 30€ y dos días a la semana, 45€. Llámanos sin compromiso para saber qué días tenemos grupos.
 
 Los beneficios que tiene el crossfit en los niños son tanto físicos como emocionales:; el
 niño va a notar que su fuerza, velocidad y resistencia van a mejorar, además de muchas otras
